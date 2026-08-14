@@ -3,7 +3,9 @@
 
 "민주주의4.0 Lite"는 국가를 운영하며 다양한 정책을 시행하고, 사회 지표를 관리하며, 국민들의 지지를 얻어 정권을 유지해야 하는 간소화된 정치 시뮬레이션 웹 게임입니다. 이 게임은 [Positech Games](https://positech.co.uk/)의 "Democracy 4"에서 영감을 받아 제작되었습니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/democracy4-lite/
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## 목차
 
